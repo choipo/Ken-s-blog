@@ -1,0 +1,62 @@
+
+---Downloaded files---
+The import files for: Demo 1 were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://127.0.0.1/blog
+Data file = D:\xampp\htdocs\blog/wp-content/themes/dotlife/data/demos/demo1/demo.xml
+Widget file = D:\xampp\htdocs\blog/wp-content/themes/dotlife/data/demos/demo1/demo.json
+Customizer file = D:\xampp\htdocs\blog/wp-content/themes/dotlife/data/demos/demo1/demo.dat
+Redux files:
+not defined!
+
+---Importing widgets---
+Page Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Single Post Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Archives Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Category Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Search Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Tag Sidebar : 
+
+分類 - Categories - Widget already exists
+Theme Recent Posts - No Title - Widget already exists
+文字 - No Title - Widget already exists
+
+Shop Sidebar : 
+
+依價格篩選商品 - Filter by price - Widget already exists
+文字 - No Title - Widget already exists
+文字 - Have Questions? - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---pt-ocdi/after_import---
+

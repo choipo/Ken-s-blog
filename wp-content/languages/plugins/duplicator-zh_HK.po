@@ -1,0 +1,2571 @@
+# Translation of Plugins - Duplicator &#8211; WordPress Migration Plugin - Stable (latest release) in Chinese (Hong Kong)
+# This file is distributed under the same license as the Plugins - Duplicator &#8211; WordPress Migration Plugin - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2019-01-22 14:26:57+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: zh_HK\n"
+"Project-Id-Version: Plugins - Duplicator &#8211; WordPress Migration Plugin - Stable (latest release)\n"
+
+#: views/tools/templates.php:15
+msgid "Save time and create a template that can be applied to a schedule or a custom package setup."
+msgstr "節省時間並建立可套用排程或自訂壓縮包設定的模板。"
+
+#: views/tools/templates.php:13
+msgid "Templates allow you to customize what you want to include in your site and store it as a re-usable profile."
+msgstr "通過模板，您可以自訂要壓縮包含在站點中的內容，並將其存儲為可重複使用的配置檔案。"
+
+#: views/tools/diagnostics/main.php:57
+msgid "Logs"
+msgstr "日誌"
+
+#: views/tools/diagnostics/main.php:56
+msgid "Information"
+msgstr "訊息"
+
+#: views/tools/diagnostics/inc.settings.php:161
+msgid "Error Log File "
+msgstr "錯誤日誌檔案"
+
+#: views/tools/controller.php:152
+msgid "Templates"
+msgstr "模板"
+
+#: views/tools/controller.php:114
+msgid "NOTICE: Safe mode (Advanced) was enabled during install, be sure to re-enable all your plugins."
+msgstr "注意：安裝期間啟用了安全模式 (高級) ，請務必重新啟用所有外掛。"
+
+#: views/tools/controller.php:110
+msgid "NOTICE: Safe mode (Basic) was enabled during install, be sure to re-enable all your plugins."
+msgstr "注意：安裝期間啟用了安全模式 (基本) ，請務必重新啟用所有外掛。"
+
+#: views/tools/controller.php:105
+msgid "Please test the entire site to validate the migration process!"
+msgstr "請測試整個站點以驗證遷移過程！"
+
+#: views/settings/storage.php:21
+msgid "FTP &amp; SFTP"
+msgstr "FTP 及 SFTP"
+
+#: views/settings/packages.php:189
+msgid "PHP Code"
+msgstr " PHP  代碼"
+
+#: views/settings/packages.php:170
+msgid "<i class=\"fa fa-exclamation-triangle\"></i> The custom path provided is not recognized as a valid mysqldump file:<br/>"
+msgstr "<i class=\"fa fa-exclamation-triangle\"></i>提供的自訂路徑不會被識別為有效的 mysqldump 檔案： <br/>"
+
+#: views/settings/packages.php:161
+msgid "mysqldump path:"
+msgstr " mysqldump  路徑："
+
+#: views/settings/packages.php:153
+msgid "for reliable access to mysqldump."
+msgstr "可靠地訪問 mysqldump 。"
+
+#: views/settings/packages.php:140
+msgid "Successfully Found:"
+msgstr "成功找到："
+
+#: views/settings/packages.php:105
+msgid "SQL Script"
+msgstr "SQL 腳本"
+
+#: views/settings/packages.php:95
+msgid "To use WordPress timezone formats consider an upgrade to Duplicator Pro."
+msgstr "要使用 WordPress 時區格式，請考慮升級到 Duplicator Pro 。"
+
+#: views/settings/license.php:31
+msgid "get a copy here"
+msgstr "在這裡得到一份副本"
+
+#: views/settings/license.php:30
+msgid "If you would like to purchase the professional version you can "
+msgstr "如果您想購買專業版，您可以"
+
+#: views/settings/license.php:25
+msgid "The free version of Duplicator does not require a license key. "
+msgstr " Duplicator 的免費版本不需要授權密鑰。"
+
+#: views/settings/license.php:20
+msgid "License Key"
+msgstr "授權密鑰"
+
+#: views/settings/license.php:15
+msgid "Pro Features"
+msgstr "專業版功能"
+
+#: views/settings/license.php:14
+msgid "Basic Features"
+msgstr "基本版功能"
+
+#: views/settings/license.php:7
+msgid "%1$sManage Licenses%2$s"
+msgstr "%1$s管理授權%2$s"
+
+#: views/settings/license.php:2
+msgid "Activation"
+msgstr "啟用"
+
+#: views/settings/controller.php:26
+msgid "License"
+msgstr "授權"
+
+#: views/packages/main/s3.build.php:294
+msgid "Read Package Log File"
+msgstr "讀取壓縮包日誌檔"
+
+#: views/packages/main/s3.build.php:273
+msgid "PHP Max Execution Mode"
+msgstr " PHP  最大執行模式"
+
+#: views/packages/main/s3.build.php:267
+msgid "Mode"
+msgstr "模式"
+
+#: views/packages/main/s3.build.php:263
+msgid "This value is represented in seconds. A value of 0 means no timeout limit is set for PHP."
+msgstr "該值以秒錶示。值為0數據表示沒有為 PHP 設定超時限制。"
+
+#: views/packages/main/s3.build.php:255
+msgid "Time"
+msgstr "時間"
+
+#: views/packages/main/s3.build.php:253
+msgid "PHP Max Execution"
+msgstr " PHP  最大執行"
+
+#: views/packages/main/s3.build.php:246
+msgid "RUNTIME DETAILS"
+msgstr "運行細節"
+
+#: views/packages/main/s3.build.php:242
+msgid "Diagnose Server Setup"
+msgstr "診斷伺服器設定"
+
+#: views/packages/main/s3.build.php:236
+msgid "OPTION 3:"
+msgstr "選項3："
+
+#: views/packages/main/s3.build.php:232
+msgid "Configure Server"
+msgstr "設定伺服器"
+
+#: views/packages/main/s3.build.php:223
+msgid "Start Two-Part Install Process"
+msgstr "開始雙部份安裝過程"
+
+#: views/packages/main/s3.build.php:221
+msgid "Yes. I have read the above overview and would like to continue!"
+msgstr "是。我已閱讀取上述概述，並希望繼續！"
+
+#: views/packages/main/s3.build.php:210
+msgid "Complete the package build and follow the "
+msgstr "完成壓縮包構建並按照"
+
+#: views/packages/main/s3.build.php:208
+msgid "On Step 1 the \"Archive Only the Database\" checkbox will be auto checked."
+msgstr "在第1步的「只封存數據庫」的剔選框會被自動剔選。"
+
+#: views/packages/main/s3.build.php:207
+msgid "Click the button below to go back to Step 1."
+msgstr "點擊下面按鈕回到第1步。"
+
+#: views/packages/main/s3.build.php:205
+msgid "Please follow these steps:"
+msgstr "請依照以下步驟："
+
+#: views/packages/main/s3.build.php:204
+msgid "<i class=\"fa fa-file-text-o\"></i> Overview"
+msgstr "<i class=\"fa fa-file-text-o\"></i> 概覽"
+
+#: views/packages/main/s3.build.php:199
+msgid "OPTION 2:"
+msgstr "選項2："
+
+#: views/packages/main/s3.build.php:195
+msgid "Two-Part Install"
+msgstr "雙部份安裝"
+
+#: views/packages/main/s3.build.php:175
+msgid "Retry Package Build"
+msgstr "重試壓縮包構建"
+
+#: views/packages/main/s3.build.php:169
+msgid "OPTION 1:"
+msgstr "選項1："
+
+#: views/packages/main/s3.build.php:159
+msgid "To help get you past this hosts limitation consider these three options:"
+msgstr "為幫助您了解此主機限制，請考慮以下三個選項："
+
+#: views/packages/main/s3.build.php:158
+msgid "This server cannot complete the build due to setup constraints."
+msgstr "由於設定約束，此服務器無法完成構建。"
+
+#: views/packages/main/s3.build.php:145
+msgid "How do I install this Package?"
+msgstr "我要如何安裝此壓縮包？"
+
+#: views/packages/main/s3.build.php:136
+msgid "One Click:"
+msgstr "一鍵："
+
+#: views/packages/main/s3.build.php:134
+msgid "One-Click Download"
+msgstr "一鍵下載"
+
+#: views/packages/main/s3.build.php:134
+msgid "Click to download both files"
+msgstr "點擊以下載兩個檔案"
+
+#: views/packages/main/s3.build.php:129
+msgid "Click to download archive file"
+msgstr "點擊以下載封裝檔"
+
+#: views/packages/main/s3.build.php:126
+msgid "Click to download installer file"
+msgstr "點擊以下載安裝檔"
+
+#: views/packages/main/s3.build.php:124
+msgid "Download Files"
+msgstr "下載檔案"
+
+#: views/packages/main/s3.build.php:15
+msgid "Want more power?  Try"
+msgstr "想要更多力量？嘗試"
+
+#: views/packages/main/s3.build.php:12
+msgid "Help review the plugin"
+msgstr "幫助查看外掛該"
+
+#: views/packages/main/s2.scan3.php:403
+msgid "Migrate large, multi-gig sites with"
+msgstr "遷移大型多工具網站"
+
+#: views/packages/main/s2.scan3.php:317
+msgid "No recursive sym-links found.<br>"
+msgstr "找不到遞歸的 sym-link。 <br>"
+
+#: views/packages/main/s2.scan3.php:310
+msgid "Recursive Links:"
+msgstr "遞歸連結："
+
+#: views/packages/main/s2.scan3.php:306
+msgid "No unreadable items found.<br>"
+msgstr "找不到任何不可讀取的項目。 <br>"
+
+#: views/packages/main/s2.scan3.php:299
+msgid "Unreadable Items:"
+msgstr "不可讀取項目："
+
+#: views/packages/main/s2.scan3.php:288
+msgid "Read Checks"
+msgstr "檢查可讀取性"
+
+#: views/packages/main/s2.scan3.php:195
+msgid "*Checking a directory will exclude all items in that path recursively."
+msgstr "*檢查目錄將以遞歸方式排除該路徑中的所有項目。"
+
+#: views/packages/main/s2.scan3.php:189
+msgid "No add on sites found."
+msgstr "沒有找到附加網站。"
+
+#: views/packages/main/s2.scan3.php:158
+msgid "Addon Sites"
+msgstr "附加網站"
+
+#: views/packages/main/s2.scan3.php:137 views/packages/main/s2.scan3.php:271
+msgid "*Checking a directory will exclude all items recursively from that path down.<br/>Please use caution when filtering directories."
+msgstr "*檢查目錄將從該路徑中遞歸地排除所有項目。 <br/>篩選目錄時請小心。"
+
+#: views/packages/main/s2.scan3.php:39 views/packages/main/s2.scan3.php:349
+msgid "uncompressed"
+msgstr "未壓縮"
+
+#: views/packages/main/s2.scan2.php:131
+msgid "The core WordPress file below will <u>not</u> be included in the archive. This file is required for WordPress to function!"
+msgstr "下面的核心 WordPress 檔案將<u>不會</u>壓縮包含在存檔中。 WordPress 需要此檔案才能運行！"
+
+#: views/packages/main/s2.scan2.php:120
+msgid "The core WordPress paths below will <u>not</u> be included in the archive. These paths are required for WordPress to function!"
+msgstr "下面的核心 WordPress 路徑將<u>不</u>壓縮包含在存檔中。這些路徑是 WordPress 運行所必需的！"
+
+#: views/packages/main/s1.setup2.php:302
+msgid "<i class='core-table-info'> Use caution when excluding tables! It is highly recommended to not exclude WordPress core tables*, unless you know the impact.</i>"
+msgstr "<i class='core-table-info'>排除數據表格時要小心！除非您知道影響，否則強烈建議不要排除 WordPress 核心數據表*。</i>"
+
+#: views/packages/main/s1.setup2.php:301
+msgid "Excluding certain tables can cause your site or plugins to not work correctly after install!<br/>"
+msgstr "排除某些數據表格可能會導致您的網站或外掛在安裝後無法正常運行！ <br/>"
+
+#: views/packages/main/s1.setup2.php:300
+msgid "Checked tables will be <u>excluded</u> from the database script. "
+msgstr "已檢查的數據表將從數據庫腳本中<u>排除</u> 。"
+
+#: views/packages/main/s1.setup2.php:223
+msgid "<b><i class='fa fa-exclamation-circle'></i> Notice:</b><br/>"
+msgstr "<b><i class='fa fa-exclamation-circle'></i>注意：</b> <br/>"
+
+#: views/packages/main/s1.setup2.php:214 views/packages/main/s3.build.php:214
+msgid "Quick Start Two-Part Install Instructions"
+msgstr "快速開始雙部份安裝指示"
+
+#: views/packages/main/s1.setup2.php:211
+msgid "This option has automatically been checked because you have opted for a <i class='fa fa-random'></i> Two-Part Install Process.  Please complete the package build and continue with the "
+msgstr "此選項已自動檢查，因為您已選擇了<i class='fa fa-random'></i>兩部分安裝過程。請完成壓縮包構建並繼續"
+
+#: views/packages/main/s1.setup2.php:190
+msgid "Number of files filtered"
+msgstr "已篩選檔案數目"
+
+#: views/packages/main/s1.setup2.php:189
+msgid "Files:"
+msgstr "檔案："
+
+#: views/packages/main/s1.setup2.php:168
+msgid "Number of directories filtered"
+msgstr "已篩選目錄數目"
+
+#: views/packages/main/s1.setup2.php:167
+msgid "Directories:"
+msgstr "目錄："
+
+#: views/packages/main/s1.setup1.php:160
+msgid "If the root WordPress path is not writable by PHP on some systems this can cause issues."
+msgstr "如果 PHP 在某些系統上無法寫入入根 WordPress 路徑，則可能會導致問題。"
+
+#: views/packages/main/packages.php:250
+msgid "Help review the plugin!"
+msgstr "幫助查看外掛！"
+
+#: views/packages/main/packages.php:248
+msgid "Have an idea for the plugin?"
+msgstr "對該外掛有想法？"
+
+#: views/packages/main/packages.php:247
+msgid "Need help with the plugin?"
+msgstr "需要該外掛的幫助？"
+
+#: views/packages/main/packages.php:246
+msgid "Other Resources:"
+msgstr "其它資源："
+
+#: views/packages/main/packages.php:243
+msgid "Frequently Asked Questions!"
+msgstr "常見問題！"
+
+#: views/packages/main/packages.php:242
+msgid "How do I install a package?"
+msgstr "我要如何安裝壓縮包？"
+
+#: views/packages/main/packages.php:241
+msgid "How do I create a package"
+msgstr "我要如何建立壓縮包"
+
+#: views/packages/main/packages.php:240
+msgid "Common Questions:"
+msgstr "常見問題："
+
+#: views/packages/main/packages.php:232
+msgid "Duplicator Help"
+msgstr " Duplicator 幫助"
+
+#: views/packages/main/packages.php:86
+msgid "Check out the 'Quick Start' guide!"
+msgstr "查看“快速入門”指南！"
+
+#: views/packages/main/packages.php:84
+msgid "New to Duplicator?"
+msgstr " Duplicator 新使用者？"
+
+#: views/packages/details/transfer.php:22 views/settings/storage.php:22
+msgid "OneDrive"
+msgstr "OneDrive"
+
+#: views/packages/details/transfer.php:19
+msgid "Dropbox"
+msgstr "Dropbox"
+
+#: views/help/gopro.php:212
+msgid "Enhanced Experience"
+msgstr "已優化的體驗"
+
+#: views/help/gopro.php:204
+msgid "Duplicate Subsite in Network"
+msgstr "複製網絡中的子網站"
+
+#: views/help/gopro.php:192
+msgid "Install an individual subsite from a Multisite as a standalone site.  This feature is only available with a business license purchase."
+msgstr "從多站點作為獨立站點安裝單個子站點。此功能僅適用於購買營業執照。"
+
+#: views/help/gopro.php:189
+msgid "Multisite Subsite &gt; Standalone"
+msgstr "多站點子站點 > 獨立"
+
+#: views/help/gopro.php:184
+msgid "Multisite Network Migration"
+msgstr "多站點網絡遷移"
+
+#: views/help/gopro.php:181 views/help/gopro.php:191
+msgid "Multisite"
+msgstr "多站點"
+
+#: views/help/gopro.php:171
+msgid "Create the database and database user directly in the installer.  No need to browse to your host's cPanel application."
+msgstr "直接在安裝程式中建立數據庫和數據庫用戶。無需瀏覽主機的cPanel套用程式。"
+
+#: views/help/gopro.php:170
+msgid "cPanel"
+msgstr "cPanel"
+
+#: views/help/gopro.php:160
+msgid "Installer Passwords"
+msgstr "安裝器密碼"
+
+#: views/help/gopro.php:157
+msgid "Robust Installation"
+msgstr "堅固的安裝"
+
+#: views/help/gopro.php:149
+msgid "Background Processing"
+msgstr "後台處理中"
+
+#: views/help/gopro.php:144
+msgid "Server Throttling"
+msgstr "伺服器節流"
+
+#: views/help/gopro.php:139
+msgid "Multiple Archive Engines"
+msgstr "多個存檔引擎"
+
+#: views/help/gopro.php:133
+msgid "Advanced archive engine processes multi-gig sites - even on stubborn budget hosts!"
+msgstr "高級存檔引擎處理多個站點 - 即使是在頑固的低階主機上！"
+
+#: views/help/gopro.php:130 views/help/gopro.php:132
+msgid "Large Site Support"
+msgstr "大型站點支援"
+
+#: views/help/gopro.php:127
+msgid "Improved Processing"
+msgstr "已優化的處理"
+
+#: views/help/gopro.php:118
+msgid "OneDrive Storage"
+msgstr "OneDrive 存儲"
+
+#: views/help/gopro.php:110
+msgid "FTP/SFTP Storage"
+msgstr "FTP/SFTP 存儲"
+
+#: views/help/gopro.php:81
+msgid "Cloud Storage"
+msgstr "雲端存儲"
+
+#: views/help/gopro.php:51
+msgid "Core Features"
+msgstr "核心功能"
+
+#: classes/ui/class.ui.screen.base.php:68
+msgid "Package Settings"
+msgstr "壓縮包設定"
+
+#: classes/ui/class.ui.screen.base.php:67
+msgid "Technical FAQs"
+msgstr "技術問題"
+
+#: classes/ui/class.ui.screen.base.php:66
+msgid "Full User Guide"
+msgstr "完整使用者指南"
+
+#: classes/ui/class.ui.screen.base.php:65
+msgid "Knowledge Base"
+msgstr "知識庫"
+
+#: classes/ui/class.ui.screen.base.php:64
+msgid "Resources"
+msgstr "資源"
+
+#: classes/ui/class.ui.notice.php:95
+msgid "Invalid token permissions to perform this request."
+msgstr "執行此請求的令牌權限無效。"
+
+#: classes/ui/class.ui.notice.php:92
+msgid "Redirecting Please Wait..."
+msgstr "重新導向中請稍候..."
+
+#: classes/ui/class.ui.notice.php:58
+msgid "Final step(s):"
+msgstr "最後步驟："
+
+#: classes/ui/class.ui.notice.php:50
+msgid "re-activate the plugins"
+msgstr "重新啟用外掛"
+
+#: classes/ui/class.ui.notice.php:49
+msgid "During the install safe mode was enabled deactivating all plugins.<br/> Please be sure to "
+msgstr "在安裝過程中，啟用了安全模式以停用所有外掛。 <br/>請務必"
+
+#: classes/ui/class.ui.notice.php:48
+msgid "Safe Mode:"
+msgstr "安全模式："
+
+#: views/tools/diagnostics/inc.validator.php:75
+msgid "Note: Symlinks are not discoverable on Windows OS with PHP"
+msgstr "注意：在使用 PHP 的 Windows 操作系統上無法發現符號連結"
+
+#: views/tools/diagnostics/inc.validator.php:32
+msgid "The utility will also shows how many files and directories you have in your system.  This process may take several minutes to run.  "
+msgstr "該實用工具還將顯示系統中有多少檔案和目錄。此過程可能需要幾分鐘才能運行。"
+
+#: classes/ui/class.ui.screen.base.php:51 views/tools/diagnostics/main.php:58
+msgid "Support"
+msgstr "支援"
+
+#: views/tools/diagnostics/inc.data.php:25
+msgid "Remove Installation Files"
+msgstr "移除安裝檔案"
+
+#: views/tools/controller.php:92
+msgid "Security Notes"
+msgstr "安全說明"
+
+#: views/settings/packages.php:164
+msgid "/usr/bin/mypath/mysqldump.exe"
+msgstr "/usr/bin/mypath/mysqldump.exe"
+
+#: views/packages/main/s3.build.php:249
+msgid "Allowed Runtime:"
+msgstr "允許運行時間："
+
+#: views/packages/main/s3.build.php:157
+msgid "Host Build Interrupt"
+msgstr "主機中斷構建"
+
+#: views/packages/main/s2.scan3.php:682
+msgid "Error applying filters.  Please go back to Step 1 to add filter manually!"
+msgstr "套用篩選器出錯。請返回步驟1手動添加篩選器！"
+
+#: views/packages/main/s2.scan3.php:643
+msgid "Initializing Please Wait..."
+msgstr "正在初始化請稍候…"
+
+#: views/packages/main/s2.scan3.php:636
+msgid "Manual copy of selected text required on this browser."
+msgstr "此瀏覽器所需的所選文字的手動副本。"
+
+#: views/packages/main/s2.scan3.php:634
+msgid "Copied to Clipboard!"
+msgstr "已複製到剪貼簿！"
+
+#: views/packages/main/s2.scan3.php:596
+msgid "No files have been selected!"
+msgstr "未選擇檔案！"
+
+#: views/packages/main/s2.scan3.php:592
+msgid "No directories have been selected!"
+msgstr "未選擇目錄！"
+
+#: views/packages/main/s2.scan3.php:565
+msgid "Directory applied filter set."
+msgstr "目錄套用篩選器集。"
+
+#: views/packages/main/s2.scan3.php:546
+msgid "Copy the paths above and apply them as needed on Step 1 &gt; Archive &gt; Files section."
+msgstr "複製上面的路徑並根據需要在步驟1 > 存檔 > 檔案部分套用它們。"
+
+#: views/packages/main/s2.scan3.php:532 views/packages/main/s2.scan3.php:541
+msgid "Click to Copy"
+msgstr "點擊以複製"
+
+#: views/packages/main/s2.scan3.php:521
+msgid "Auto filters are applied to prevent archiving other backup sets."
+msgstr "套用自動篩選器以防止封裝其他備份集。"
+
+#: views/packages/main/s2.scan3.php:519
+msgid "[view json result report]"
+msgstr "[查看json結果報告]"
+
+#: views/packages/main/s2.scan3.php:518
+msgid "Path filters will be skipped during the archive process when enabled."
+msgstr "啟用時，在封裝過程中將跳過路徑篩選器。"
+
+#: views/packages/main/s2.scan3.php:503
+msgid "Auto Filters"
+msgstr "自動篩選"
+
+#: views/packages/main/s2.scan3.php:499
+msgid "No custom file filters set."
+msgstr "沒有設定自訂檔案篩選器。"
+
+#: views/packages/main/s2.scan3.php:477
+msgid "No custom directory filters set."
+msgstr "沒有設定自訂目錄篩選器。"
+
+#: views/packages/main/s2.scan3.php:425
+msgid "Copy Quick Filter Paths"
+msgstr "複製快速篩選路徑"
+
+#: views/packages/main/s2.scan3.php:418
+msgid "Scan Details"
+msgstr "掃描詳情"
+
+#: views/packages/main/s2.scan3.php:392
+msgid "3. %1$s if this host supports the option."
+msgstr "3. %1$s 如果此主機支援這選項。"
+
+#: views/packages/main/s2.scan3.php:391
+msgid "Enable mysqldump"
+msgstr "啟用  mysqldump "
+
+#: views/packages/main/s2.scan3.php:389
+msgid "2. Remove post revisions and stale data from tables.  Tables such as logs, statistical or other non-critical data should be cleared."
+msgstr "2. 從數據表移除文章版本及多餘的數據。數據表例如日誌、分析或非必要數據應該被清除。"
+
+#: views/packages/main/s2.scan3.php:383
+msgid "RECOMMENDATIONS:"
+msgstr "推薦："
+
+#: views/packages/main/s2.scan3.php:373
+msgid "TABLE DETAILS:"
+msgstr "數據表詳情："
+
+#: views/packages/main/s2.scan3.php:360
+msgid "TOTAL SIZE"
+msgstr "總大小"
+
+#: views/packages/main/s2.scan3.php:265
+msgid "No file/directory name warnings found."
+msgstr "未找到檔案/目錄名稱警告。"
+
+#: views/packages/main/s2.scan3.php:219
+msgid "</b>"
+msgstr "</b>"
+
+#: views/packages/main/s2.scan3.php:218
+msgid "  Only consider using this filter if the package build is failing. Select files that are not important to your site or you can migrate manually."
+msgstr "如果壓縮包構建失敗，則僅考慮使用此篩選器。選擇對您的站點不重要的檔案，或者您可以手動遷移。"
+
+#: views/packages/main/s2.scan3.php:217
+msgid "<b>"
+msgstr "<b>"
+
+#: views/packages/main/s2.scan3.php:216
+msgid "Unicode and special characters such as \"*?><:/\\|\", can be problematic on some hosts."
+msgstr "Unicode和特殊字符 (如“*？> <：/ \\ |”) 在某些主機上可能會出現問題。"
+
+#: views/packages/main/s2.scan3.php:142 views/packages/main/s2.scan3.php:276
+msgid "Copy Paths to Clipboard"
+msgstr "複製路徑到剪貼簿"
+
+#: views/packages/main/s2.scan3.php:140 views/packages/main/s2.scan3.php:198
+#: views/packages/main/s2.scan3.php:274
+msgid "Add Filters &amp; Rescan"
+msgstr "添加篩選器並重新掃描"
+
+#: views/packages/main/s2.scan3.php:121
+msgid "No large files found during this scan."
+msgstr "掃描過程中未發現大型檔案。"
+
+#: views/packages/main/s2.scan3.php:101 views/packages/main/s2.scan3.php:245
+msgid "Core WordPress directories should not be filtered. Use caution when excluding files."
+msgstr "不應篩選核心 WordPress 目錄。排除檔案時請小心。"
+
+#: views/packages/main/s2.scan3.php:91 views/packages/main/s2.scan3.php:230
+msgid "Show All"
+msgstr "顯示全部"
+
+#: views/packages/main/s2.scan3.php:90 views/packages/main/s2.scan3.php:229
+msgid "Hide All"
+msgstr "隱藏全部"
+
+#: views/packages/main/s2.scan3.php:86 views/packages/main/s2.scan3.php:175
+#: views/packages/main/s2.scan3.php:226
+msgid "Quick Filters"
+msgstr "快速篩選器"
+
+#: views/packages/main/s2.scan3.php:72
+msgid "Consider trying multi-threaded support in "
+msgstr "考慮嘗試多線程支援"
+
+#: views/packages/main/s2.scan3.php:71
+msgid "What can I try for Timeout Issues?"
+msgstr "當出現逾時情況，我有什麼可以嘗試？"
+
+#: views/packages/main/s2.scan3.php:71
+msgid "See the FAQ link to adjust this hosts timeout limits: "
+msgstr "請參閱常見問題連結以調整此主機逾時限制："
+
+#: views/packages/main/s2.scan3.php:70
+msgid "Apply the \"Quick Filters\" below or click the back button to apply on previous page."
+msgstr "套用下面的 “快速篩選器” 或單擊後退按鈕以套用於上一頁。"
+
+#: views/packages/main/s2.scan3.php:68
+msgid "Timeout Options"
+msgstr "逾時選項"
+
+#: views/packages/main/s2.scan3.php:56
+msgid "more details..."
+msgstr "更多詳情…"
+
+#: views/packages/main/s2.scan3.php:55
+msgid "Compressing larger sites on <i>some budget hosts</i> may cause timeouts.  "
+msgstr "在某些低階主機上壓縮較大的站點可能會導致逾時。"
+
+#: views/packages/main/s2.scan3.php:47
+msgid "Size Checks"
+msgstr "大小檢查"
+
+#: views/packages/main/s2.scan3.php:35
+msgid "Archive Size"
+msgstr "封裝檔大小"
+
+#: views/packages/main/s2.scan3.php:16
+msgid "Show Scan Details"
+msgstr "顯示掃描詳情"
+
+#: views/packages/main/s2.scan2.php:77 views/packages/main/s3.build.php:262
+msgid "PHP Max Execution Time"
+msgstr " PHP  最大執行時間"
+
+#: views/packages/main/s2.scan2.php:71
+msgid "PHP Open Base Dir"
+msgstr " PHP  Open Base Dir"
+
+#: views/packages/main/s2.scan2.php:66
+msgid "The minimum PHP version supported by Duplicator is 5.2.9. It is highly recommended to use PHP 5.3+ for improved stability.  For international language support please use PHP 7.0+."
+msgstr " Duplicator 最低支援 PHP 版本為5.2.9。強烈建議使用 PHP 5.3+ 以得到更高的穩定性。國際語言支援請使用 PHP 7.0+。"
+
+#: views/packages/main/s2.scan2.php:5
+msgid "Show Diagnostics"
+msgstr "顯示診斷數據"
+
+#: views/packages/main/s2.scan1.php:352
+msgid "Good"
+msgstr "良好"
+
+#: views/packages/main/s1.setup2.php:194
+msgid "(file path)"
+msgstr "(檔案路徑)"
+
+#: views/packages/main/s1.setup2.php:128 views/packages/main/s1.setup2.php:153
+msgid "Archive Only the Database"
+msgstr "只封存數據表"
+
+#: views/packages/main/s1.setup2.php:63
+msgid "Toggle a default name"
+msgstr "切換一個預設名稱"
+
+#: views/packages/main/s1.setup2.php:60
+msgid "Add Notes"
+msgstr "添加備忘錄"
+
+#: views/packages/main/packages.php:114 views/packages/main/s1.setup2.php:128
+#: views/packages/main/s2.scan3.php:27
+msgid "Database Only"
+msgstr "只有數據庫"
+
+#: views/packages/details/detail.php:230
+msgid "Archive Database Only Enabled"
+msgstr "已啟用只封存數據庫"
+
+#: views/packages/details/detail.php:229
+msgid "Database Mode"
+msgstr "數據庫模式"
+
+#: duplicator.php:322
+msgid "Go Pro"
+msgstr "獲得Pro版"
+
+#: classes/utilities/class.u.json.php:57
+msgid "One or more filenames isn't compatible with JSON encoding"
+msgstr "一個或多個檔案名稱與JSON編碼不兼容"
+
+#: classes/ui/class.ui.notice.php:77
+msgid "Take me there now!"
+msgstr "現在帶我到那裏！"
+
+#: classes/ui/class.ui.notice.php:64
+msgid "Remove Installation Files Now!"
+msgstr "現在移除安裝檔案！"
+
+#: classes/ui/class.ui.notice.php:63
+msgid "Optionally, Review Duplicator at WordPress.org..."
+msgstr "(可選) 在 WordPress.org 上評價 Duplicator ..."
+
+#: classes/ui/class.ui.notice.php:70
+msgid "Migration Almost Complete!"
+msgstr "遷移快將完成！"
+
+#: classes/ui/class.ui.notice.php:57 views/tools/controller.php:104
+msgid "This site has been successfully migrated!"
+msgstr "網站已經成功遷移！"
+
+#: views/settings/storage.php:13
+msgid "Store your packages in multiple<br/> locations  with Duplicator Pro"
+msgstr "使用 Duplicator Pro 將您的壓縮包儲存在一起"
+
+#: views/settings/schedule.php:15
+msgid "Simply choose your storage location and when you want it to run."
+msgstr "只需選擇你的存儲位置以及何時執行。"
+
+#: views/settings/schedule.php:13
+msgid "Create robust schedules that automatically create packages while you sleep."
+msgstr "建立可靠的計劃，在您睡覺時自動建立壓縮包。"
+
+#: views/settings/packages.php:223
+msgid "Save Package Settings"
+msgstr "儲存壓縮包設定"
+
+#: views/settings/packages.php:101
+msgid "Processing"
+msgstr "處理中"
+
+#: views/settings/packages.php:64
+msgid "Visual"
+msgstr "視覺"
+
+#: views/settings/packages.php:6
+msgid "Package Settings Saved"
+msgstr "壓縮包設定已儲存"
+
+#: views/settings/general.php:125
+msgid "Save General Settings"
+msgstr "儲存一般設定"
+
+#: views/settings/general.php:6
+msgid "General Settings Saved"
+msgstr "一般設定已儲存"
+
+#: views/settings/controller.php:24
+msgid "Schedules"
+msgstr "時間數據表"
+
+#: views/packages/details/transfer.php:27 views/settings/storage.php:27
+msgid "Set up a one-time storage location and automatically <br/> push the package to your destination."
+msgstr "自動設定一次性存儲位置<br/>將壓縮包推到目的地。"
+
+#: views/packages/details/transfer.php:23 views/settings/storage.php:23
+msgid "Custom Directory"
+msgstr "自訂目錄"
+
+#: views/packages/details/transfer.php:21
+msgid "FTP"
+msgstr "FTP"
+
+#: views/packages/details/transfer.php:20 views/settings/storage.php:20
+msgid "Google Drive"
+msgstr "Google 雲端硬碟"
+
+#: views/settings/storage.php:19
+msgid " Dropbox"
+msgstr " Dropbox"
+
+#: views/packages/details/transfer.php:18 views/settings/storage.php:18
+msgid "Amazon S3"
+msgstr "Amazon S3"
+
+#: views/packages/details/transfer.php:13
+msgid "Transfer your packages to multiple<br/> locations  with Duplicator Pro"
+msgstr "使用 Duplicator Pro 將您的壓縮包轉移到多個位置"
+
+#: views/packages/main/s2.scan3.php:463
+#: views/tools/diagnostics/inc.settings.php:158
+msgid "Disabled"
+msgstr "已停用"
+
+#: views/tools/diagnostics/inc.settings.php:157
+msgid "Suhosin Extension"
+msgstr "Suhosin擴展"
+
+#: views/packages/main/s2.scan1.php:162
+msgid "This can take several minutes."
+msgstr "這會花費數分鐘。"
+
+#: views/packages/main/s2.scan1.php:161
+msgid "Keep this window open during the scan process."
+msgstr "掃描過程中請保持此視窗開啟。"
+
+#: views/packages/main/s1.setup1.php:210
+msgid "WordPress Root Path:"
+msgstr " WordPress 根路徑："
+
+#: views/packages/main/s1.setup2.php:393
+msgid "example: DatabaseUserName (value is optional)"
+msgstr "例子：DatabaseUserName (選填值)"
+
+#: views/packages/main/s1.setup2.php:389
+msgid "example: DatabaseName (value is optional)"
+msgstr "例子：DatabaseName (選填值)"
+
+#: views/packages/main/s1.setup2.php:385
+msgid "example: 3306 (value is optional)"
+msgstr "例子：3306 (選填值)"
+
+#: views/packages/main/s1.setup2.php:381
+msgid "example: localhost (value is optional)"
+msgstr "例子：localhost (選填值)"
+
+#: views/packages/main/s1.setup2.php:371
+msgid "The values in this section are NOT required! If you know ahead of time the database input fields the installer will use, then you can optionally enter them here.  Otherwise you can just enter them in at install time."
+msgstr "本節中的值不是必需的！如果您提前知道安裝程序將使用的數據庫輸入字段，那麼您可以選擇在此輸入它們。否則，您可以在安裝時輸入它們。"
+
+#: views/packages/main/s1.setup2.php:370
+msgid "MySQL Server Prefills"
+msgstr "MySQL 伺服器預先填入"
+
+#: views/tools/diagnostics/inc.settings.php:172
+msgid "Comments"
+msgstr "評論"
+
+#: views/packages/main/s1.setup1.php:188
+msgid "MySQL version 5.0+ or better is required and the PHP MySQLi extension (note the trailing 'i') is also required.  Contact your server administrator and request that mysqli extension and MySQL Server 5.0+ be installed."
+msgstr "需要MySQL 5.0或以上版本，並且還需要 PHP MySQLi 擴展 (請注意尾隨'i') 。聯絡您的伺服器管理員並請求安裝 mysqli 擴展和 MySQL Server 5.0+。"
+
+#: views/packages/main/s1.setup2.php:400
+msgid "Create the database and users directly at install time with "
+msgstr "直接在安裝時建立數據庫和使用者需要"
+
+#. Description of the plugin/theme
+msgid "Migrate and backup a copy of your WordPress files and database. Duplicate and move a site from one location to another quickly."
+msgstr "遷移和備份 WordPress 檔案和數據庫的副本。複製并快速將站點從一個位置移動到另一個位置。"
+
+#: views/tools/diagnostics/inc.validator.php:15
+msgid "This will run the scan validation check.  This may take several minutes.  Do you want to Continue?"
+msgstr "這將運行掃描驗證檢查。這可能會需要幾分鐘。你要繼續嗎？"
+
+#: views/tools/diagnostics/inc.validator.php:14
+msgid "Run Validator"
+msgstr "運行驗證"
+
+#: views/tools/diagnostics/inc.data.php:112
+msgid "Delete the option value"
+msgstr "刪除選項值"
+
+#: views/tools/diagnostics/inc.data.php:94
+msgid "Removing Option, Please Wait..."
+msgstr "正在移除選項，請稍候..."
+
+#: views/tools/diagnostics/inc.data.php:93
+msgid "Delete the option value just selected?"
+msgstr "刪除所選的選項？"
+
+#: views/tools/diagnostics/inc.data.php:92
+msgid "Delete Option?"
+msgstr "刪除選項？"
+
+#: views/tools/diagnostics/inc.data.php:99
+msgid "Clear Build Cache?"
+msgstr "清除構建快取？"
+
+#: views/settings/packages.php:86
+msgid "By Day"
+msgstr "按日"
+
+#: views/settings/packages.php:79
+msgid "By Month"
+msgstr "按月"
+
+#: views/settings/packages.php:72
+msgid "By Year"
+msgstr "按年"
+
+#: views/packages/main/packages.php:225
+msgid "Removing Packages, Please Wait..."
+msgstr "正在移除壓縮包，請稍候..."
+
+#: views/packages/main/packages.php:223
+msgid "Delete Packages?"
+msgstr "移除壓縮包？"
+
+#: views/packages/main/packages.php:218
+msgid "Selection Required"
+msgstr "請選擇"
+
+#: views/packages/main/packages.php:214
+msgid "Please select an action from the \"Bulk Actions\" drop down menu!"
+msgstr "請在「批次管理」選擇一個動作！"
+
+#: views/packages/main/packages.php:213
+msgid "Bulk Action Required"
+msgstr "需要批次管理"
+
+#: views/packages/main/s2.scan3.php:345
+msgid "Database Size:"
+msgstr "數據庫大小："
+
+#: views/packages/main/s2.scan2.php:174
+msgid "This is not a Multisite install so duplication will proceed without issue.  Duplicator does not officially support Multisite. However, Duplicator Pro supports duplication of a full Multisite network and also has the ability to install a Multisite subsite as a standalone site."
+msgstr "這不是一個多站點安裝所以複製過程會安然無恙地進行。Duplicator並不正式支援多站點。但是， Duplicator Pro 支援複製完整多站點網絡以及將一個多站點附屬網站當作一個獨立網站來安裝。"
+
+#: views/packages/main/s2.scan2.php:173
+msgid "Multisite: N/A"
+msgstr "多站點：不適用"
+
+#: views/packages/main/s2.scan2.php:170
+msgid "Duplicator does not officially support Multisite. However, Duplicator Pro supports duplication of a full Multisite network and also has the ability to install a Multisite subsite as a standalone site."
+msgstr "Duplicator並不正式支援多站點。但是， Duplicator Pro 支援複製完整多站點網絡以及將一個多站點附屬網站當作一個獨立網站來安裝。"
+
+#: views/packages/main/s2.scan2.php:169
+msgid "Multisite: Unsupported"
+msgstr "多站點：不支援"
+
+#: views/packages/main/s2.scan2.php:89
+msgid "Get faster builds with Duplicator Pro with access to shell_exec zip."
+msgstr "使用 Duplicator Pro  加上 shell_exec zip 存取以取得更快的構建速度。"
+
+#: views/packages/main/s1.setup2.php:425
+msgid "Reset Package Settings?"
+msgstr "重設壓縮包設定？"
+
+#: classes/ui/class.ui.dialog.php:152
+msgid "Cancel"
+msgstr "取消"
+
+#: classes/ui/class.ui.dialog.php:110 classes/ui/class.ui.dialog.php:151
+msgid "OK"
+msgstr "OK"
+
+#: classes/ui/class.ui.dialog.php:78
+msgid "Processing please wait..."
+msgstr "進行中請稍候..."
+
+#: views/tools/diagnostics/logging.php:188
+msgid "Top 20"
+msgstr "首20個"
+
+#: views/settings/packages.php:212
+msgid "enable only for large archives"
+msgstr "只於大型封裝檔啟用"
+
+#: views/settings/packages.php:194
+msgid "A higher limit size will speed up the database build time, however it will use more memory.  If your host has memory caps start off low."
+msgstr "更高的限制大小將加快數據庫構建時間，但是它將使用更多記憶體。如果您的主機有記憶體上限從低位開始。"
+
+#: views/settings/packages.php:193
+msgid "PHP Query Limit Size"
+msgstr " PHP  Query Limit Size"
+
+#: views/settings/packages.php:163
+msgid "Custom Path:"
+msgstr "自訂路徑："
+
+#: views/settings/packages.php:162
+msgid "An optional path to the mysqldump program.  Add a custom path if the path to mysqldump is not properly detected or needs to be changed."
+msgstr "mysqldump 程序的可選路徑。如果未正確檢測到 mysqldump 的路徑或需要更改路徑，請添加自訂路徑。"
+
+#: views/settings/packages.php:109 views/settings/packages.php:133
+msgid "Mysqldump"
+msgstr "Mysqldump"
+
+#: views/settings/packages.php:151
+msgid "See the"
+msgstr "See the"
+
+#: views/settings/packages.php:109 views/settings/packages.php:134
+msgid "recommended"
+msgstr "recommended"
+
+#: views/settings/packages.php:113
+msgid "Please contact the host or server administrator to enable this feature."
+msgstr "請聯絡你的主機商或伺服器管理員以啟用此功能。"
+
+#: views/settings/packages.php:112
+msgid "This server does not support the PHP shell_exec function which is required for mysqldump to run. "
+msgstr "此伺服器不支援 mysqldump 執行時需要的 PHP  shell_exec 功能。"
+
+#: views/settings/packages.php:94
+msgid "The UTC date format shown in the 'Created' column on the Packages screen."
+msgstr "在壓縮包畫面的「已建立」欄中顯示的UTC日期格式。"
+
+#: views/settings/packages.php:68
+msgid "Created Format"
+msgstr "已建立格式"
+
+#: views/settings/about-info.php:111
+msgid "Stay in the Loop"
+msgstr "留在循環"
+
+#: views/settings/about-info.php:121
+msgid "Subscribe to the Duplicator newsletter and stay on top of great ideas, tutorials, and better ways to improve your workflows"
+msgstr "Subscribe to the Duplicator newsletter and stay on top of great ideas, tutorials, and better ways to improve your workflows"
+
+#. Author URI of the plugin/theme
+msgid "http://www.snapcreek.com/duplicator/"
+msgstr "http://www.snapcreek.com/duplicator/"
+
+#. Author of the plugin/theme
+msgid "Snap Creek"
+msgstr "Snap Creek"
+
+#: views/tools/diagnostics/inc.validator.php:121
+msgid "Scanning Environment... This may take a few minutes."
+msgstr "掃描環境中...這會花費數分鐘。"
+
+#: views/settings/general.php:118
+msgid "Refresh page after saving to show/hide Debug menu"
+msgstr "儲存後重新整理頁面以顯示/隱藏偵錯選單"
+
+#: views/settings/general.php:117
+msgid "Enable debug options throughout user interface"
+msgstr "對整個使用者介面啟用偵錯選項"
+
+#: views/settings/general.php:114
+msgid "Debugging"
+msgstr "偵錯中"
+
+#: duplicator.php:235 views/settings/general.php:110
+msgid "Debug"
+msgstr "偵錯"
+
+#: debug/main.php:69
+msgid "Refresh Page"
+msgstr "重新整理頁面"
+
+#: debug/main.php:68
+msgid "Run Tests"
+msgstr "執行測試"
+
+#: debug/main.php:58
+msgid "Testing Interface"
+msgstr "測試中介面"
+
+#: views/tools/diagnostics/logging.php:165
+msgid "Consider our recommended"
+msgstr "考慮我們推薦的"
+
+#: views/settings/packages.php:124 views/settings/packages.php:152
+#: views/tools/diagnostics/logging.php:166
+msgid "host list"
+msgstr "主機商列數據表"
+
+#: views/settings/packages.php:123
+msgid "Please visit our recommended"
+msgstr "請訪問我們推薦的"
+
+#: views/tools/diagnostics/logging.php:167
+msgid "if you’re unhappy with your current provider"
+msgstr "如果你對現有的供應商不滿"
+
+#: views/tools/diagnostics/inc.validator.php:41
+#: views/tools/diagnostics/inc.validator.php:142
+msgid "Run Scan Integrity Validation"
+msgstr "執行掃描完整度驗證"
+
+#: views/tools/diagnostics/inc.validator.php:33
+msgid "If there is a recursive loop on your system then the process has a built in check to stop after a large set of files and directories have been scanned.  "
+msgstr "如果系統上存在遞歸循環，則該過程具有內置檢查，以便在掃描大量檔案和目錄後停止。"
+
+#: views/tools/diagnostics/inc.validator.php:31
+msgid "This utility will help to find unreadable files and sys-links in your environment  that can lead to issues during the scan process.  "
+msgstr "此工具會尋找在你的環境中無法讀取的檔案和會導致掃描過程發生問題的符號鏈結。"
+
+#: views/tools/diagnostics/inc.validator.php:26
+msgid "Scan Validator"
+msgstr "掃描驗證器"
+
+#: views/settings/about-info.php:92
+msgid "Rapid WordPress Duplication by snapcreek.com"
+msgstr "快速的WordPress複製由snapcreek.com開發"
+
+#: views/tools/diagnostics/inc.settings.php:113
+msgid "Process"
+msgstr "過程"
+
+#: views/packages/main/s2.scan1.php:204
+msgid "Yes.  Continue with the build process!"
+msgstr "是的，繼續構建過程！"
+
+#: views/packages/main/s1.setup1.php:163
+msgid "If Duplicator does not have enough permissions then you will need to manually create the paths above. &nbsp; "
+msgstr "如果 Duplicator 沒有足夠權限那麼你需要手動建立以上路徑。&nbsp;"
+
+#: views/settings/about-info.php:64
+msgid "Rate Duplicator"
+msgstr "評價 Duplicator "
+
+#: views/packages/main/s1.setup2.php:367
+msgid "All values in this section are"
+msgstr "於此段的所有值均為"
+
+#: views/packages/main/s1.setup2.php:367
+msgid "optional"
+msgstr "非必需"
+
+#: views/packages/main/s2.scan1.php:331
+msgid "1. Go back and create a root path directory filter to validate the site is scan-able."
+msgstr "返回並建立一個根目錄路徑篩選器以證明此網站是可掃描的。"
+
+#: views/packages/main/s2.scan1.php:332
+msgid "2. Continue to add/remove filters to isolate which path is causing issues."
+msgstr "2. 繼續增加/移除篩選器以隔開發生問題的路徑。"
+
+#: views/packages/main/s2.scan1.php:333
+msgid "3. This message will go away once the correct filters are applied."
+msgstr "3. 一旦套用正確的篩選器，此訊息會消失。"
+
+#: views/packages/main/s2.scan1.php:336
+msgid "- On some budget hosts scanning over 30k files can lead to timeout/gateway issues. Consider scanning only your main WordPress site and avoid trying to backup other external directories."
+msgstr "- 在一些廉價主機商掃描超過30k 的檔案會導致逾時/網關問題。請考慮只掃描主 WordPress 網站以及避免嘗試備份其他不相關的目錄。"
+
+#: views/packages/main/s2.scan1.php:330
+msgid "Unable to perform a full scan, please try the following actions:"
+msgstr "無法執行完整掃描，請嘗試以下動作："
+
+#: views/packages/main/s2.scan1.php:335
+msgid "Common Issues:"
+msgstr "經常發生的問題："
+
+#: views/packages/main/s2.scan1.php:337
+msgid "- Symbolic link recursion can cause timeouts.  Ask your server admin if any are present in the scan path.  If they are add the full path as a filter and try running the scan again."
+msgstr "- 符號鏈結遞歸可導致逾時。詢問你的伺服器管理員在掃描的路徑中有沒有它們。如有請把該路徑加入篩選器然後再嘗試執行掃描。"
+
+#: views/settings/packages.php:125
+msgid "for reliable access to mysqldump"
+msgstr "for reliable access to  mysqldump "
+
+#: views/settings/packages.php:119 views/tools/diagnostics/logging.php:161
+msgid "Duplicator recommends going with the high performance pro plan or better from our recommended list"
+msgstr " Duplicator recommends going with the high performance pro plan or better from our recommended list"
+
+#: views/settings/packages.php:118 views/tools/diagnostics/logging.php:160
+msgid "Host Recommendation:"
+msgstr "主機商推薦："
+
+#: views/packages/main/s2.scan3.php:395
+msgid "4. For table name case sensitivity issues either rename the table with lower case characters or be prepared to work with the %1$s system variable setting."
+msgstr "4. 對於數據表名稱大小寫入問題，以全小寫入重新命名稱該數據表或準備進行%1$s系統變數設定。"
+
+#: views/packages/main/s2.scan3.php:394
+msgid "lower_case_table_names"
+msgstr "lower_case_table_names"
+
+#: views/packages/main/s2.scan3.php:387
+msgid "1. Run a %1$s on the table to improve the overall size and performance."
+msgstr "1. 於該數據表執行%1$s以改善總大小和效能。"
+
+#: views/packages/main/s2.scan3.php:60 views/packages/main/s2.scan3.php:356
+#: views/packages/screen.php:53
+msgid "Overview"
+msgstr "概述"
+
+#: views/packages/main/s1.setup1.php:203
+msgid "None of the reserved files where found from a previous install.  This means you are clear to create a new package."
+msgstr "沒有找到上一次安裝的保留檔案。這數據表示你可以建立一個新的壓縮包。"
+
+#: views/help/gopro.php:231
+msgid "Plus Many Other Features..."
+msgstr "和許多其他功能..."
+
+#: views/help/gopro.php:167
+msgid "cPanel Database API"
+msgstr "cPanel 數據庫 API"
+
+#: views/packages/main/s1.setup2.php:103
+msgid "%1$s, %2$s, %3$s, %4$s, %5$s and other storage options available in"
+msgstr "%1$s、%2$s、%3$s、%4$s、 %5$s 和其他儲存選項需要"
+
+#: views/tools/controller.php:24
+msgid "File Removed"
+msgstr "已移除檔案"
+
+#: views/tools/controller.php:23
+msgid "File Found"
+msgstr "檔案已找到"
+
+#: views/packages/main/packages.php:184
+msgid "Error Processing"
+msgstr "處理錯誤"
+
+#: views/packages/main/packages.php:157 views/packages/main/packages.php:186
+msgid "Package Details"
+msgstr "壓縮包詳情"
+
+#: views/packages/main/s1.setup2.php:404
+msgid "If your server supports cPanel API access then you can create new databases and select existing ones with Duplicator Pro at install time."
+msgstr "如果伺服器支援 cPanel API 存取那麼你可以使用 Duplicator Pro 於安裝時建立新數據庫或選擇現存的。"
+
+#: views/packages/main/s1.setup2.php:403
+msgid "cPanel Access:"
+msgstr "cPanel存取："
+
+#: views/packages/main/s1.setup2.php:348
+msgid "This option is only availbe with mysqldump mode."
+msgstr "此選項只在mysqldump模式可用。"
+
+#: views/packages/main/s1.setup2.php:343
+msgid "no_field_options"
+msgstr "no_field_options"
+
+#: views/packages/main/s1.setup2.php:339
+msgid "no_key_options"
+msgstr "no_key_options"
+
+#: views/packages/main/s1.setup2.php:335
+msgid "no_table_options"
+msgstr "no_table_options"
+
+#: views/packages/main/s1.setup2.php:331
+msgid "mysql40"
+msgstr "mysql40"
+
+#: views/packages/main/s1.setup2.php:309
+msgid "Compatibility Mode:"
+msgstr "相容模式："
+
+#: views/packages/main/s1.setup2.php:307
+msgid "Compatibility Mode"
+msgstr "相容模式"
+
+#: views/packages/main/s1.setup2.php:248
+msgid "Enable Table Filters:"
+msgstr "使用數據表篩選："
+
+#: views/packages/main/s1.setup1.php:132
+msgid "PHP versions 5.2.9+ or higher is required.  For compression to work the ZipArchive extension for PHP is required. Safe Mode should be set to 'Off' in you php.ini file and is deprecated as of PHP 5.3.0.  For any issues in this section please contact your hosting provider or server administrator.  For additional information see our online documentation."
+msgstr "PHP 版本要求 5.2.9+ 以上。要使壓縮過程正常運作，PHP伺服器必須啟用 ZipArchive 功能模組。需要在 php.ini 中關閉安全模式但從PHP 5.3.0起不再適用。本節中出現的任何問題，都需要與您的伺服器管理員聯絡並解決，更多資訊請參閱線上檔案。"
+
+#: views/packages/main/controller.php:37 views/packages/main/controller.php:41
+#: views/packages/main/controller.php:45
+msgid "Packages &raquo; New"
+msgstr "壓縮包 &raquo; 新增壓縮包"
+
+#: views/packages/main/controller.php:33
+msgid "Packages &raquo; All"
+msgstr "壓縮包 &raquo; 全部壓縮包"
+
+#: views/packages/details/transfer.php:33 views/settings/schedule.php:20
+#: views/settings/storage.php:33 views/tools/templates.php:20
+msgid "Learn More"
+msgstr "瞭解更多"
+
+#: views/settings/schedule.php:12 views/tools/templates.php:12
+msgid "This option is available in Duplicator Pro."
+msgstr "此選項需要 Duplicator Pro 。"
+
+#: views/packages/details/detail.php:320 views/packages/details/detail.php:324
+#: views/packages/details/detail.php:328
+msgid "- not set -"
+msgstr "- 未設定 -"
+
+#: views/packages/details/detail.php:284 views/packages/main/s2.scan3.php:452
+msgid "MySQL Compatibility Mode Enabled"
+msgstr "MySQL相容模式已啟用"
+
+#: views/packages/main/s1.setup2.php:159
+msgid "File Filters:"
+msgstr "檔案篩選："
+
+#: views/packages/details/detail.php:248 views/packages/main/s2.scan3.php:481
+msgid "Extensions"
+msgstr "副檔案名稱"
+
+#: views/packages/details/detail.php:242 views/packages/details/detail.php:252
+#: views/packages/details/detail.php:261 views/packages/details/detail.php:300
+msgid "- no filters -"
+msgstr "- 沒有篩選器 -"
+
+#: views/packages/details/detail.php:234 views/packages/details/detail.php:291
+msgid "Filters"
+msgstr "篩選器"
+
+#: views/packages/details/detail.php:224
+msgid "ZipArchive"
+msgstr "ZipArchive"
+
+#: views/packages/details/detail.php:223 views/packages/details/detail.php:278
+#: views/packages/main/s1.setup2.php:240
+msgid "Build Mode"
+msgstr "構建模式"
+
+#: views/packages/details/detail.php:220
+msgid "FILES"
+msgstr "檔案"
+
+#: views/packages/details/detail.php:194 views/packages/main/s1.setup2.php:106
+msgid "Additional Storage:"
+msgstr "附加儲存："
+
+#: views/packages/details/detail.php:191
+msgid "%1$s, %2$s, %3$s, %4$s, %5$s and more storage options available in"
+msgstr "%1$s、%2$s、%3$s、%4$s、 %5$s 和更多儲存選項需要"
+
+#: views/packages/details/detail.php:118
+msgid "Share"
+msgstr "分享"
+
+#: views/packages/details/detail.php:102
+msgid "in-complete"
+msgstr "未完成"
+
+#: views/packages/details/detail.php:102
+msgid "completed"
+msgstr "已完成"
+
+#: views/packages/details/detail.php:101
+msgid "Status"
+msgstr "狀態"
+
+#: views/packages/details/detail.php:98
+msgid "error running"
+msgstr "運行錯誤"
+
+#: views/packages/details/detail.php:97
+msgid "Runtime"
+msgstr "運行時間"
+
+#: views/packages/details/detail.php:89
+msgid "PHP"
+msgstr " PHP "
+
+#: views/packages/details/detail.php:90
+msgid "Mysql"
+msgstr "MySQL"
+
+#: views/packages/details/detail.php:88 views/packages/details/detail.php:89
+#: views/packages/details/detail.php:91 views/packages/details/detail.php:92
+#: views/packages/details/detail.php:106
+msgid "- unknown -"
+msgstr "- 不明 ­-"
+
+#: views/packages/details/detail.php:84
+msgid "Versions"
+msgstr "版本"
+
+#: views/packages/details/detail.php:81
+msgid "- no notes -"
+msgstr "- 沒有備註 -"
+
+#: views/packages/details/detail.php:75
+msgid "Full Name"
+msgstr "完整名稱"
+
+#: views/packages/details/detail.php:73
+msgid "ID"
+msgstr "﻿ID"
+
+#: views/packages/details/detail.php:51
+msgid "Invlaid Package ID request.  Please try again!"
+msgstr "無效的壓縮包ID請求。請再試一次！"
+
+#: views/packages/details/controller.php:44
+msgid "Transfer"
+msgstr "轉移"
+
+#: views/packages/details/controller.php:34
+msgid " and "
+msgstr "和"
+
+#: views/packages/details/controller.php:34
+msgid "For help visit the "
+msgstr "如需協助，請登入"
+
+#: views/packages/details/controller.php:33
+msgid " for details."
+msgstr "查詢詳情。"
+
+#: views/packages/details/controller.php:33
+msgid "This package contains an error.  Please review the "
+msgstr "此壓縮包壓縮包含一個錯誤。請參閱"
+
+#: views/packages/details/controller.php:14
+msgid "resources page"
+msgstr "資源頁"
+
+#: views/packages/details/controller.php:13
+msgid "FAQ"
+msgstr "常見問題"
+
+#: views/packages/details/controller.php:12
+msgid "package log"
+msgstr "壓縮包日誌"
+
+#: views/help/gopro.php:226
+msgid "Active Customer Support"
+msgstr "客户支援"
+
+#: views/help/gopro.php:221
+msgid "Manual Transfers"
+msgstr "手動轉移"
+
+#: views/help/gopro.php:199
+msgid "Custom Search & Replace"
+msgstr "自訂搜尋和取代"
+
+#: views/help/gopro.php:59 views/packages/main/s2.scan3.php:462
+msgid "File Filters"
+msgstr "檔案篩選器"
+
+#: views/help/gopro.php:215
+msgid "Email Alerts"
+msgstr "電郵提示"
+
+#: views/help/gopro.php:102
+msgid "Google Drive Storage"
+msgstr "Google 雲端硬碟存儲"
+
+#: views/help/gopro.php:94
+msgid "Dropbox Storage "
+msgstr "Dropbox 存儲"
+
+#: views/help/gopro.php:86
+msgid "Amazon S3 Storage"
+msgstr "Amazon S3 存儲"
+
+#: views/help/gopro.php:44
+msgid "Feature"
+msgstr "功能"
+
+#: views/help/gopro.php:39
+msgid "with power for the professional."
+msgstr "利用功能強大的專業版。"
+
+#. Plugin URI of the plugin/theme
+msgid "http://www.lifeinthegrid.com/duplicator/"
+msgstr "http://www.lifeinthegrid.com/duplicator/"
+
+#. Plugin Name of the plugin/theme
+msgid "Duplicator"
+msgstr " Duplicator "
+
+#: views/tools/diagnostics/logging.php:181
+msgid "Auto Refresh"
+msgstr "自動刷新"
+
+#: views/tools/diagnostics/logging.php:178
+msgid "Refresh"
+msgstr "刷新"
+
+#: views/tools/diagnostics/logging.php:171
+#: views/tools/diagnostics/logging.php:176
+msgid "Options"
+msgstr "選項"
+
+#: views/tools/diagnostics/logging.php:151
+msgid "The process that PHP runs under does not have enough permissions to create files.  Please contact your hosting provider for more details"
+msgstr " PHP  運行進程沒有足夠的權限來建立檔案，要獲得支援，請聯絡您的伺服器主機商"
+
+#: views/tools/diagnostics/logging.php:150
+msgid "The snapshots directory does not have the correct permissions to write files.  Try setting the permissions to 755"
+msgstr "快照目錄沒有寫入入檔案的權限，請嘗試設定目錄權權限為 755"
+
+#: views/tools/diagnostics/logging.php:149
+msgid "The web server does not support returning .log file extentions"
+msgstr "當前的網站伺服器不支援返回 *.log 格式的檔案類型"
+
+#: views/tools/diagnostics/logging.php:148
+msgid "Reasons for log file not showing"
+msgstr "無法顯示日誌檔案的原因"
+
+#: views/tools/diagnostics/logging.php:147
+msgid "Try to create a package, since no log files were found in the snapshots directory with the extension *.log"
+msgstr "請嘗試建立壓縮包，因為當前在快照目錄中找不到 *.log 類型的檔案"
+
+#: views/tools/diagnostics/logging.php:146
+msgid "Log file not found or unreadable"
+msgstr "找不到或無法讀取日誌檔案"
+
+#: views/tools/diagnostics/inc.phpinfo.php:19
+msgid "PHP Information"
+msgstr " PHP 訊息"
+
+#: views/tools/diagnostics/inc.data.php:58
+msgid "Options Values"
+msgstr "選項"
+
+#: views/tools/diagnostics/inc.data.php:15
+msgid "Stored Data"
+msgstr "已儲存數據"
+
+#: views/tools/diagnostics/inc.settings.php:199
+msgid "On shared hosts check your control panel for the 'TRUE' disk space quota value."
+msgstr "若在共用主機上，請打開控制台並獲得「真實」的磁碟空間的配置。"
+
+#: views/tools/diagnostics/inc.settings.php:198
+msgid "Note: This value is the physical servers hard-drive allocation."
+msgstr "提示：實體伺服器磁片配額的值。"
+
+#: views/tools/diagnostics/inc.settings.php:195
+msgid "Free space"
+msgstr "可用空間"
+
+#: views/tools/diagnostics/inc.settings.php:192
+msgid "Server Disk"
+msgstr "伺服器硬碟"
+
+#: views/tools/diagnostics/inc.settings.php:188
+msgid "msyqldump Path"
+msgstr "msyqldump 路徑"
+
+#: views/tools/diagnostics/inc.settings.php:184
+msgid "Max Allowed Packets"
+msgstr "最大允許的數據壓縮包數目"
+
+#: views/tools/diagnostics/inc.settings.php:180
+msgid "Wait Timeout"
+msgstr "等待逾時"
+
+#: views/tools/diagnostics/inc.settings.php:153
+msgid "Shell Exec Zip"
+msgstr "Shell Exec Zip"
+
+#: views/tools/diagnostics/inc.settings.php:150
+#: views/tools/diagnostics/inc.settings.php:154
+msgid "Not Supported"
+msgstr "不支援"
+
+#: views/tools/diagnostics/inc.settings.php:150
+#: views/tools/diagnostics/inc.settings.php:154
+msgid "Is Supported"
+msgstr "支援"
+
+#: views/tools/diagnostics/inc.settings.php:149
+msgid "Shell Exec"
+msgstr "Shel Exec"
+
+#: views/tools/diagnostics/inc.settings.php:130
+msgid "Memory In Use"
+msgstr "記憶體使用中"
+
+#: views/tools/diagnostics/inc.settings.php:126
+msgid "Memory Limit"
+msgstr "記憶體限制"
+
+#: views/tools/diagnostics/inc.settings.php:121
+msgid "Off"
+msgstr "關"
+
+#: views/tools/diagnostics/inc.settings.php:121
+msgid "On"
+msgstr "開"
+
+#: views/tools/diagnostics/inc.settings.php:117
+msgid "Safe Mode"
+msgstr "安全模式"
+
+#: views/tools/diagnostics/inc.settings.php:95
+msgid "Max"
+msgstr "最大"
+
+#: views/tools/diagnostics/inc.settings.php:94
+msgid "Memory Limit "
+msgstr "記憶體限制 "
+
+#: views/tools/diagnostics/inc.settings.php:90
+#: views/tools/diagnostics/inc.settings.php:176
+msgid "Charset"
+msgstr "語系編碼"
+
+#: views/tools/diagnostics/inc.settings.php:86
+msgid "Language"
+msgstr "語言"
+
+#: views/tools/diagnostics/inc.settings.php:75
+msgid "Client IP"
+msgstr "客戶端IP"
+
+#: views/tools/diagnostics/inc.settings.php:71
+msgid "Server IP"
+msgstr "伺服器IP地址"
+
+#: views/tools/diagnostics/inc.settings.php:67
+msgid "Loaded PHP INI"
+msgstr "已載入 PHP INI"
+
+#: views/tools/diagnostics/inc.settings.php:63
+msgid "Plugins Path"
+msgstr "外掛路徑"
+
+#: views/tools/diagnostics/inc.settings.php:59
+msgid "ABSPATH"
+msgstr "ABSPATH"
+
+#: views/packages/main/s2.scan3.php:5
+#: views/tools/diagnostics/inc.settings.php:55
+msgid "Root Path"
+msgstr "根目錄"
+
+#: views/tools/diagnostics/inc.settings.php:51
+msgid "APC Enabled"
+msgstr "APC已啟用"
+
+#: views/tools/diagnostics/inc.settings.php:43
+msgid "Server Time"
+msgstr "伺服器時間"
+
+#: views/tools/diagnostics/inc.settings.php:39
+msgid "Timezone"
+msgstr "時區"
+
+#: views/tools/diagnostics/inc.settings.php:35
+msgid "Operating System"
+msgstr "作業系統"
+
+#: views/tools/diagnostics/inc.settings.php:31
+msgid "Duplicator Version"
+msgstr " Duplicator 版本"
+
+#: views/tools/diagnostics/inc.settings.php:22
+msgid "Server Settings"
+msgstr "伺服器設定"
+
+#: views/tools/diagnostics/main.php:27
+msgid "Active package settings reset."
+msgstr "使用中壓縮包設定已重設。"
+
+#: views/tools/diagnostics/main.php:26
+msgid "View state settings reset."
+msgstr "查看狀態設定已重設。"
+
+#: views/tools/diagnostics/main.php:25
+msgid "Plugin settings reset."
+msgstr "外掛設定已重設。"
+
+#: views/tools/diagnostics/inc.settings.php:4
+#: views/tools/diagnostics/inc.settings.php:5
+msgid "unknow"
+msgstr "不明"
+
+#: views/tools/diagnostics/inc.data.php:100
+msgid "This process will remove all build cache files.  Be sure no packages are currently building or else they will be cancelled."
+msgstr "此操作將刪除所有版本的快取檔案，確保沒有壓縮包正在構建，否則會終止構建過程。"
+
+#: views/tools/diagnostics/inc.data.php:53
+msgid "Removes all build data from:"
+msgstr "刪除所有生成的數據："
+
+#: views/tools/diagnostics/inc.data.php:50
+msgid "Clear Build Cache"
+msgstr "清除構建快取"
+
+#: views/tools/diagnostics/inc.data.php:29
+msgid "Removes all reserved installer files."
+msgstr "移除所有保留的安裝檔。"
+
+#: views/tools/diagnostics/inc.data.php:20
+msgid "Data Cleanup"
+msgstr "數據清理"
+
+#: views/tools/controller.php:55
+msgid "Build cache removed."
+msgstr "構建快取已移除。"
+
+#: views/tools/controller.php:51 views/tools/diagnostics/main.php:30
+msgid "Legacy data removed."
+msgstr "舊數據已移除。"
+
+#: views/tools/controller.php:46
+msgid "Installer file cleanup ran!"
+msgstr "已清除安裝檔！"
+
+#: views/settings/general.php:101
+msgid "this feature."
+msgstr "此功能。"
+
+#: views/settings/general.php:100
+msgid "must be installed to use"
+msgstr "必須已安裝以使用"
+
+#: views/help/gopro.php:46 views/settings/general.php:99
+msgid "Professional"
+msgstr "Pro"
+
+#: views/settings/general.php:98
+msgid "or"
+msgstr "或"
+
+#: views/help/gopro.php:45 views/settings/general.php:97
+msgid "Free"
+msgstr "Free"
+
+#: views/settings/general.php:96
+msgid "The User Role Editor Plugin"
+msgstr "The User Role Editor Plugin"
+
+#: views/settings/general.php:91
+msgid "Enable User Role Editor Plugin Integration"
+msgstr "啟用User Role Editor Plugin整合"
+
+#: views/settings/general.php:88
+msgid "Custom Roles"
+msgstr "自訂角色"
+
+#: views/settings/packages.php:195
+msgid "Query Limit Size"
+msgstr "查詢限制大小"
+
+#: views/settings/packages.php:214
+msgid "This will attempt to keep a network connection established for large archives."
+msgstr "嘗試為大型壓縮包建立持續的網路連接。"
+
+#: views/settings/packages.php:211
+msgid "Attempt Network Keep Alive"
+msgstr "嘗試保持網路連接"
+
+#: views/settings/packages.php:208
+msgid "Archive Flush"
+msgstr "封存網頁"
+
+#: views/settings/general.php:83
+msgid "Disable if issues occur when downloading installer/archive files."
+msgstr "當下載安裝檔和網站壓縮包時出現問題，請考慮停用。"
+
+#: views/settings/general.php:81
+msgid "Disable .htaccess File In Storage Directory"
+msgstr "在儲存路徑停用.htaccess"
+
+#: views/settings/general.php:78
+msgid "Full Path"
+msgstr "完整路徑"
+
+#: views/settings/general.php:71
+msgid "Delete Entire Storage Directory"
+msgstr "刪除整個儲存路徑"
+
+#: views/settings/general.php:68
+msgid "Delete Plugin Settings"
+msgstr "刪除外掛設定"
+
+#: views/settings/general.php:65
+msgid "Uninstall"
+msgstr "解除安裝"
+
+#: views/settings/general.php:57
+msgid "Plugin"
+msgstr "外掛"
+
+#: views/packages/details/detail.php:63 views/settings/controller.php:22
+#: views/tools/diagnostics/inc.settings.php:28
+msgid "General"
+msgstr "一般"
+
+#: views/packages/main/s3.build.php:181
+msgid "Build Folder:"
+msgstr "構建數據夾："
+
+#: views/packages/main/s2.scan1.php:350 views/packages/main/s3.build.php:179
+msgid "Notice"
+msgstr "注意"
+
+#: views/packages/main/s3.build.php:165
+msgid "Try Again"
+msgstr "再試一次"
+
+#: views/packages/main/s3.build.php:118
+msgid "Process Time"
+msgstr "經過時間"
+
+#: views/packages/main/s3.build.php:113
+msgid "Package Completed"
+msgstr "壓縮包完成"
+
+#: views/packages/main/s3.build.php:106
+msgid "Build Status"
+msgstr "構建狀態"
+
+#: views/packages/main/s3.build.php:102
+msgid "This may take several minutes."
+msgstr "這會花費數分鐘。"
+
+#: views/packages/main/s3.build.php:101
+msgid "Keep this window open during the build process."
+msgstr "壓縮包構建過程中請保持此視窗開啟。"
+
+#: views/packages/main/s3.build.php:98
+msgid "Building Package"
+msgstr "壓縮包構建中"
+
+#: views/packages/main/s3.build.php:79
+msgid "Step 3: Build Package"
+msgstr "第3步：構建壓縮包"
+
+#: views/packages/main/s2.scan3.php:777
+msgid "Unable to report on database stats"
+msgstr "無法回報數據庫統計數據"
+
+#: views/packages/main/s2.scan3.php:751
+msgid "Unable to report on any tables"
+msgstr "無法回報任何數據表"
+
+#: views/packages/main/s2.scan1.php:220
+msgid "Rescan"
+msgstr "重新掃描"
+
+#: views/packages/main/s2.scan1.php:219
+msgid "Back"
+msgstr "返回"
+
+#: views/packages/main/s2.scan1.php:173 views/packages/main/s3.build.php:285
+msgid "Error Message:"
+msgstr "錯誤訊息："
+
+#: views/packages/main/s2.scan1.php:170 views/packages/main/s3.build.php:281
+msgid "Server Status:"
+msgstr "伺服器狀態："
+
+#: views/packages/main/s2.scan1.php:168
+msgid "Please try again!"
+msgstr "請再試一次！"
+
+#: views/packages/main/s2.scan1.php:167
+msgid "Scan Error"
+msgstr "掃描錯誤"
+
+#: views/packages/main/s2.scan1.php:212
+msgid "Please review the details for each section by clicking on the detail title."
+msgstr "請點擊細節連結以查看每個警告詳情。"
+
+#: views/packages/main/s2.scan1.php:210
+msgid "Scan checks are not required to pass, however they could cause issues on some systems."
+msgstr "掃描檢查不需要通過，但它們在一些系統可能會發生問題。"
+
+#: views/packages/main/s2.scan1.php:200
+msgid "A notice status has been detected, are you sure you want to continue?"
+msgstr "偵測到警告狀態，你確定要繼續？"
+
+#: views/packages/main/s2.scan3.php:446
+msgid "Build Mode:"
+msgstr "構建模式："
+
+#: views/packages/main/s2.scan3.php:444
+msgid "Host:"
+msgstr "主機："
+
+#: views/packages/main/s2.scan3.php:443
+msgid "Name:"
+msgstr "名稱："
+
+#: views/packages/main/s2.scan3.php:386
+msgid "repair and optimization"
+msgstr "修復及最佳化"
+
+#: views/packages/main/s2.scan3.php:363
+msgid "Records"
+msgstr "記錄"
+
+#: views/packages/details/detail.php:295 views/packages/main/s2.scan3.php:362
+msgid "Tables"
+msgstr "數據表"
+
+#: views/packages/main/s2.scan3.php:487
+msgid "No file extension filters have been set."
+msgstr "未篩選任何副檔案名稱。"
+
+#: views/packages/main/s2.scan3.php:87
+msgid "Large Files"
+msgstr "大型檔案"
+
+#: views/packages/main/s2.scan3.php:211 views/packages/main/s2.scan3.php:227
+msgid "Name Checks"
+msgstr "檔案名稱稱檢查"
+
+#: views/packages/main/s2.scan3.php:53
+msgid "Directory Count"
+msgstr "數據夾數量"
+
+#: views/packages/main/s2.scan3.php:52
+msgid "File Count"
+msgstr "檔案數量"
+
+#: views/packages/main/s2.scan3.php:29 views/packages/main/s2.scan3.php:339
+#: views/packages/main/s2.scan3.php:463
+#: views/tools/diagnostics/inc.settings.php:158
+msgid "Enabled"
+msgstr "已啟用"
+
+#: views/packages/main/s2.scan2.php:161
+msgid "Cache Path"
+msgstr "快取路徑"
+
+#: views/packages/main/s2.scan2.php:114
+msgid "Core Files"
+msgstr "核心檔案"
+
+#: views/packages/main/s2.scan2.php:109
+msgid "WordPress Version"
+msgstr " WordPress 版本"
+
+#: views/packages/details/detail.php:88 views/packages/main/s2.scan2.php:103
+msgid "WordPress"
+msgstr " WordPress "
+
+#: views/tools/diagnostics/inc.settings.php:134
+#: views/tools/diagnostics/inc.settings.php:143
+msgid "Max Execution Time"
+msgstr "最大執行時間"
+
+#: views/packages/details/detail.php:285 views/packages/main/s1.setup2.php:315
+#: views/packages/main/s2.scan2.php:73 views/packages/main/s2.scan2.php:84
+#: views/packages/main/s2.scan2.php:91 views/packages/main/s2.scan2.php:171
+#: views/packages/main/s2.scan2.php:175 views/packages/main/s2.scan3.php:453
+msgid "details"
+msgstr "詳情"
+
+#: views/packages/main/s2.scan2.php:72
+msgid "Issues might occur when [open_basedir] is enabled. Work with your server admin to disable this value in the php.ini file if you’re having issues building a package."
+msgstr "啟用 [open_basedir] 参數可能會發生一些問題；如果在構建壓縮包時發生錯誤，請與您的伺服器管理員聯絡，在php.ini 檔案中停用 [open_basedir] 参數。"
+
+#: views/packages/main/s2.scan2.php:61
+msgid "Supported web servers: "
+msgstr "支援的網絡伺服器："
+
+#: views/packages/main/s2.scan2.php:60
+#: views/tools/diagnostics/inc.settings.php:47
+msgid "Web Server"
+msgstr "網絡伺服器"
+
+#: views/tools/controller.php:151
+msgid "Diagnostics"
+msgstr "偵錯"
+
+#: views/packages/main/s2.scan2.php:4
+msgid "Server"
+msgstr "伺服器"
+
+#: views/packages/main/s2.scan1.php:184
+msgid "Process Time:"
+msgstr "處理時間："
+
+#: views/packages/main/s2.scan1.php:182
+msgid "Scan Complete"
+msgstr "掃描完成"
+
+#: views/packages/main/s2.scan1.php:160 views/packages/main/s3.build.php:100
+msgid "Please Wait..."
+msgstr "請稍候…"
+
+#: views/packages/main/s2.scan1.php:158
+msgid "Scanning Site"
+msgstr "正在掃描網站"
+
+#: views/packages/main/s2.scan1.php:140
+msgid "Step 2: System Scan"
+msgstr "第2步：系統掃描"
+
+#: views/packages/main/s1.setup2.php:426
+msgid "This will clear and reset all of the current package settings.  Would you like to continue?"
+msgstr "這會重設所有現有壓縮包設定。繼續？"
+
+#: views/packages/main/s1.setup2.php:415
+msgid "Next"
+msgstr "下一步"
+
+#: views/packages/main/s1.setup2.php:414
+msgid "Reset"
+msgstr "重設"
+
+#: views/packages/main/s1.setup2.php:368
+msgid "The installer can have these fields pre-filled at install time."
+msgstr "安裝器會於安裝時預先輸入這些欄目。"
+
+#: views/packages/main/s1.setup2.php:384
+msgid "Host Port"
+msgstr "主機埠"
+
+#: views/packages/details/detail.php:319 views/packages/main/s1.setup2.php:380
+msgid "Host"
+msgstr "主機"
+
+#: views/packages/main/s1.setup2.php:377
+msgid " MySQL Server"
+msgstr " MySQL 伺服器"
+
+#: views/packages/main/s1.setup2.php:249
+msgid "Checked tables will not be added to the database script.  Excluding certain tables can possibly cause your site or plugins to not work correctly after install!"
+msgstr "剔選的數據表將不會被添加到數據庫備份腳本中，若排除某些數據表，可能會導致網站或外掛安裝後無法正常運作！"
+
+#: views/packages/main/s1.setup2.php:256
+msgid "Exclude All"
+msgstr "排除全部"
+
+#: views/packages/main/s1.setup2.php:255
+msgid "Include All"
+msgstr "壓縮包含全部"
+
+#: views/packages/main/s1.setup2.php:246
+msgid "Enable Table Filters"
+msgstr "使用數據表篩選"
+
+#: views/packages/main/s1.setup2.php:201
+msgid "Use the full path for directories and files with semicolons to separate all paths."
+msgstr "目錄需要使用完整路徑，多個目錄請使用分號分隔。"
+
+#: views/packages/main/s1.setup2.php:200
+msgid "The directory, file and extensions paths above will be excluded from the archive file if enabled is checked."
+msgstr "以上文字方塊中的目錄和檔案類型將在建立壓縮包時被排除如果啟用檔案篩選。"
+
+#: views/packages/main/s1.setup2.php:182
+msgid "archive"
+msgstr "封裝檔"
+
+#: views/packages/main/s1.setup2.php:181
+msgid "media"
+msgstr "媒體"
+
+#: views/packages/main/s1.setup2.php:179
+msgid "File extensions"
+msgstr "副檔名稱"
+
+#: views/packages/main/s1.setup2.php:175 views/packages/main/s1.setup2.php:183
+#: views/packages/main/s1.setup2.php:195
+msgid "(clear)"
+msgstr "(清除)"
+
+#: views/packages/main/s1.setup2.php:174
+msgid "cache"
+msgstr "快取"
+
+#: views/packages/main/s1.setup2.php:173
+msgid "wp-uploads"
+msgstr "wp-uploads"
+
+#: views/packages/main/s1.setup2.php:172
+msgid "root path"
+msgstr "根目錄"
+
+#: views/packages/details/detail.php:238 views/packages/main/s2.scan3.php:470
+#: views/packages/main/s2.scan3.php:529
+msgid "Directories"
+msgstr "目錄"
+
+#: views/packages/main/s1.setup2.php:165 views/packages/main/s1.setup2.php:179
+#: views/packages/main/s1.setup2.php:187
+msgid "Separate all filters by semicolon"
+msgstr "使用分號分隔所有篩選器"
+
+#: views/packages/main/s1.setup2.php:157
+msgid "Enable File Filters"
+msgstr "使用檔案篩選"
+
+#: views/packages/details/detail.php:134 views/packages/details/detail.php:323
+#: views/packages/main/s1.setup2.php:139 views/packages/main/s1.setup2.php:388
+#: views/packages/main/s2.scan3.php:334 views/packages/main/s2.scan3.php:441
+msgid "Database"
+msgstr "數據庫"
+
+#: views/packages/details/detail.php:109 views/packages/details/detail.php:257
+#: views/packages/main/s1.setup2.php:138 views/packages/main/s2.scan3.php:21
+#: views/packages/main/s2.scan3.php:492 views/packages/main/s2.scan3.php:538
+msgid "Files"
+msgstr "檔案"
+
+#: views/packages/main/s1.setup2.php:127
+msgid "Database filter enabled"
+msgstr "數據庫篩選已啟用"
+
+#: views/packages/main/s1.setup2.php:126
+msgid "File filter enabled"
+msgstr "檔案篩選已啟用"
+
+#: views/packages/details/detail.php:180 views/packages/main/s1.setup2.php:91
+msgid "Local"
+msgstr "本地"
+
+#: views/packages/details/detail.php:179 views/packages/main/s1.setup2.php:90
+msgid "Default"
+msgstr "預設"
+
+#: views/packages/details/detail.php:174 views/packages/main/s1.setup2.php:85
+msgid "Location"
+msgstr "位置"
+
+#: views/packages/details/detail.php:173 views/packages/details/detail.php:274
+#: views/packages/main/s1.setup2.php:84 views/settings/license.php:10
+msgid "Type"
+msgstr "類型"
+
+#: views/packages/details/detail.php:165 views/packages/main/s1.setup2.php:76
+#: views/settings/controller.php:25 views/settings/general.php:76
+msgid "Storage"
+msgstr "儲存空間"
+
+#: views/packages/main/s1.setup1.php:221
+msgid "For additional help please see the "
+msgstr "有關其他幫助，請參閱"
+
+#: views/packages/main/s1.setup1.php:212
+msgid "Remove Files Now"
+msgstr "現在移除檔案"
+
+#: views/packages/main/s1.setup1.php:198
+msgid "Reserved Files"
+msgstr "保留的檔案"
+
+#: views/packages/main/s1.setup1.php:189
+#: views/tools/diagnostics/inc.data.php:30
+msgid "more info"
+msgstr "更多資訊"
+
+#: views/packages/main/s1.setup1.php:182
+msgid "MySQLi Support"
+msgstr "MySQLi 支援"
+
+#: views/packages/main/s1.setup1.php:178
+msgid "MySQL Version"
+msgstr "MySQL 版本"
+
+#: views/packages/main/s1.setup1.php:172
+msgid "Server Support"
+msgstr "伺服器支援"
+
+#: views/packages/main/s1.setup1.php:140
+msgid "Required Paths"
+msgstr "必要路徑"
+
+#: views/packages/main/s1.setup1.php:119 views/packages/main/s1.setup1.php:123
+#: views/packages/main/s1.setup1.php:127
+msgid "Function"
+msgstr "功能"
+
+#: views/packages/main/s1.setup1.php:115
+msgid "Safe Mode Off"
+msgstr "安全模式關閉"
+
+#: views/packages/main/s1.setup1.php:111
+msgid "Zip Archive Enabled"
+msgstr "ZIP 封存檔已啟用"
+
+#: views/packages/main/s1.setup1.php:107 views/packages/main/s2.scan2.php:65
+msgid "PHP Version"
+msgstr " PHP  版本"
+
+#: views/packages/main/s1.setup1.php:101
+msgid "PHP Support"
+msgstr " PHP  支援"
+
+#: views/packages/main/s1.setup1.php:95
+msgid "System requirements must pass for the Duplicator to work properly.  Click each link for details."
+msgstr "必須通過系統需求才能令 Duplicator 正常運作。點擊每一個連結以檢視詳細數據。"
+
+#: views/packages/main/s1.setup1.php:86
+msgid "Requirements:"
+msgstr "需求："
+
+#: views/packages/main/s1.setup1.php:64
+msgid "Step 1: Package Setup"
+msgstr "第1步：設定壓縮包"
+
+#: views/packages/main/s1.setup1.php:61 views/packages/main/s2.scan1.php:137
+#: views/packages/main/s2.scan1.php:221 views/packages/main/s3.build.php:76
+msgid "Build"
+msgstr "構建"
+
+#: views/packages/main/s1.setup1.php:60 views/packages/main/s2.scan1.php:136
+#: views/packages/main/s3.build.php:75
+msgid "Scan"
+msgstr "掃描"
+
+#: views/packages/main/s1.setup1.php:59 views/packages/main/s2.scan1.php:135
+#: views/packages/main/s2.scan2.php:53 views/packages/main/s3.build.php:74
+msgid "Setup"
+msgstr "設定"
+
+#: views/packages/main/s1.setup1.php:12
+msgid "Package settings have been reset."
+msgstr "壓縮包設定已重設。"
+
+#: views/packages/details/detail.php:359
+msgid "LOG"
+msgstr "日誌"
+
+#: views/packages/details/detail.php:358
+msgid "INSTALLER"
+msgstr "安裝器"
+
+#: views/packages/details/detail.php:357
+msgid "PACKAGE"
+msgstr "壓縮包"
+
+#: views/packages/details/detail.php:271 views/packages/details/detail.php:356
+msgid "DATABASE"
+msgstr "數據庫"
+
+#: views/packages/details/detail.php:353
+msgid "Package File Links"
+msgstr "壓縮包檔案連結"
+
+#: views/packages/main/packages.php:224
+msgid "Are you sure, you want to delete the selected package(s)?"
+msgstr "你是否確定，你想刪除所選的壓縮包？"
+
+#: views/packages/main/packages.php:219
+msgid "Please select at least one package to delete!"
+msgstr "請選擇最少一個壓縮包以刪除！"
+
+#: views/packages/details/detail.php:157
+msgid "The database SQL script is a quick link to your database backup script.  An exact copy is also stored in the package."
+msgstr "數據庫SQL腳本是一個快速連結到你的數據庫的備份腳本，副本會儲存在壓縮包中。"
+
+#: views/packages/details/detail.php:151
+msgid "The following links contain sensitive data.  Please share with caution!"
+msgstr "以下連結中壓縮包含敏感數據，請小心分享！"
+
+#: views/packages/details/detail.php:148
+msgid "Download Links"
+msgstr "下載連結"
+
+#: views/packages/main/packages.php:201
+msgid "Total Size"
+msgstr "總大小"
+
+#: views/packages/details/detail.php:336
+msgid "View Package Object"
+msgstr "顯示壓縮包內容"
+
+#: views/packages/details/detail.php:80 views/packages/main/s1.setup2.php:66
+#: views/packages/main/s2.scan3.php:437
+msgid "Notes"
+msgstr "備註"
+
+#: views/packages/details/detail.php:74
+msgid "Hash"
+msgstr "雜湊"
+
+#: views/packages/details/detail.php:105 views/packages/details/detail.php:327
+#: views/packages/main/s1.setup2.php:392
+#: views/tools/diagnostics/inc.settings.php:109
+msgid "User"
+msgstr "使用者"
+
+#: views/settings/general.php:61 views/tools/diagnostics/inc.settings.php:82
+#: views/tools/diagnostics/inc.settings.php:101
+#: views/tools/diagnostics/inc.settings.php:168
+msgid "Version"
+msgstr "版本"
+
+#: views/packages/details/detail.php:126 views/packages/details/detail.php:214
+#: views/packages/main/packages.php:155 views/packages/main/s1.setup2.php:124
+#: views/packages/main/s2.scan3.php:15 views/packages/main/s3.build.php:130
+msgid "Archive"
+msgstr "封裝檔"
+
+#: views/packages/details/detail.php:130 views/packages/details/detail.php:313
+#: views/packages/main/packages.php:152 views/packages/main/s1.setup2.php:360
+#: views/packages/main/s3.build.php:127
+msgid "Installer"
+msgstr "安裝器"
+
+#: views/packages/main/packages.php:107 views/packages/main/s2.scan3.php:435
+msgid "Package"
+msgstr "壓縮包"
+
+#: views/packages/details/detail.php:69 views/packages/details/detail.php:172
+#: views/packages/main/packages.php:105 views/packages/main/s1.setup2.php:57
+#: views/packages/main/s1.setup2.php:83 views/packages/main/s2.scan3.php:436
+#: views/packages/main/s3.build.php:117
+msgid "Name"
+msgstr "名稱"
+
+#: views/packages/main/packages.php:104 views/packages/main/s2.scan3.php:51
+#: views/packages/main/s2.scan3.php:361
+msgid "Size"
+msgstr "大小"
+
+#: views/packages/main/packages.php:103
+msgid "Created"
+msgstr "建立於"
+
+#: views/packages/details/controller.php:41
+msgid "Details"
+msgstr "詳情"
+
+#: views/packages/main/packages.php:102
+msgid "Select all packages"
+msgstr "選擇所有壓縮包"
+
+#: views/packages/main/packages.php:65 views/packages/main/s1.setup1.php:70
+#: views/packages/main/s2.scan1.php:146 views/packages/main/s3.build.php:84
+#: views/packages/main/s3.build.php:85
+msgid "Create New"
+msgstr "新增壓縮包"
+
+#: views/tools/diagnostics/logging.php:187
+msgid "Package Logs"
+msgstr "壓縮包日誌"
+
+#: views/packages/main/packages.php:53
+msgid "Apply"
+msgstr "套用"
+
+#: views/packages/main/packages.php:51
+msgid "Delete"
+msgstr "刪除"
+
+#: views/packages/main/packages.php:51
+msgid "Delete selected package(s)"
+msgstr "刪除所選壓縮包"
+
+#: views/packages/main/packages.php:50
+msgid "Bulk Actions"
+msgstr "批次管理"
+
+#: views/packages/main/s1.setup1.php:221
+msgid "help page"
+msgstr "說明頁面"
+
+#: views/packages/main/packages.php:82
+msgid "Click the 'Create New' button to build a package."
+msgstr "點擊「新增壓縮包」以構建壓縮包。"
+
+#: views/packages/main/packages.php:81
+msgid "No Packages Found."
+msgstr "找不到壓縮包。"
+
+#: views/tools/diagnostics/support.php:101
+msgid "Pro Solutions!"
+msgstr "專業解決方案！"
+
+#: views/tools/diagnostics/support.php:98
+msgid "Other Commercial Resources"
+msgstr "其他商業資源"
+
+#: views/tools/diagnostics/support.php:95
+msgid "Alternatives"
+msgstr "替代品"
+
+#: views/tools/diagnostics/support.php:85
+msgid "Trusted Providers!"
+msgstr "信任的供應商！"
+
+#: views/tools/diagnostics/support.php:82
+msgid "Servers That Work With Duplicator"
+msgstr "兼容 Duplicator 的伺服器"
+
+#: views/tools/diagnostics/support.php:79
+msgid "Approved Hosting"
+msgstr "信任的主機商"
+
+#: views/tools/diagnostics/support.php:65
+msgid "Get Support!"
+msgstr "取得協助！"
+
+#: views/tools/diagnostics/support.php:61
+msgid "Get Help From IT Professionals"
+msgstr "取得專業的IT人員協助"
+
+#: views/tools/diagnostics/support.php:58
+msgid "Online Support"
+msgstr "網上支援"
+
+#: views/tools/diagnostics/support.php:49
+msgid "Change Log"
+msgstr "更新日誌"
+
+#: views/tools/diagnostics/support.php:48
+msgid "FAQs"
+msgstr "常見問題"
+
+#: views/tools/diagnostics/support.php:47
+msgid "User Guide"
+msgstr "使用指南"
+
+#: views/tools/diagnostics/support.php:46
+msgid "Quick Start"
+msgstr "快速開始"
+
+#: views/tools/diagnostics/support.php:45
+msgid "Choose A Section"
+msgstr "選擇一個區段"
+
+#: views/tools/diagnostics/support.php:43
+msgid "Complete Online Documentation"
+msgstr "完整網上檔案"
+
+#: views/tools/diagnostics/support.php:40
+msgid "Knowledgebase"
+msgstr "知識庫"
+
+#: views/tools/diagnostics/support.php:29
+msgid "Migrating WordPress is a complex process and the logic to make all the magic happen smoothly may not work quickly with every site.  With over 30,000 plugins and a very complex server eco-system some migrations may run into issues.  This is why the Duplicator includes a detailed knowledgebase that can help with many common issues.  Resources to additional support, approved hosting, and alternatives to fit your needs can be found below."
+msgstr "遷移或完整的備份 WordPress 網站是一個非常複雜和精細的過程，稍有不慎將會導致無法挽回的錯誤，在超過30000個外掛的複雜的伺服器環境下，遷移網站會遇到許多無法預測的問題！ Duplicator 知識庫壓縮包含詳細的指導和說明，可以通過它來解決常見的問題，要獲得額外的支援，請選擇以下合適的知識內容。"
+
+#: views/help/gopro.php:240
+msgid "Check It Out!"
+msgstr "查看詳情！"
+
+#: views/help/gopro.php:74
+msgid "Scheduled Backups"
+msgstr "排程備份"
+
+#: views/packages/main/s2.scan3.php:73
+msgid "Duplicator Pro."
+msgstr " Duplicator Pro 。"
+
+#: views/help/gopro.php:69
+msgid "Migration Wizard"
+msgstr "遷移精靈"
+
+#: views/help/gopro.php:64
+msgid "Database Table Filters"
+msgstr "數據表篩選"
+
+#: views/help/gopro.php:54
+msgid "Backup Files & Database"
+msgstr "備份檔案和數據庫"
+
+#: views/packages/details/detail.php:192 views/packages/main/s1.setup2.php:104
+#: views/packages/main/s1.setup2.php:401 views/packages/main/s2.scan3.php:404
+#: views/packages/main/s3.build.php:17
+msgid "Duplicator Pro"
+msgstr " Duplicator Pro "
+
+#: views/help/gopro.php:38
+msgid "The simplicity of Duplicator"
+msgstr "簡單易用的 Duplicator 外掛"
+
+#: views/settings/about-info.php:168
+msgid "Get More Great Tools"
+msgstr "取得更多工具"
+
+#: views/settings/about-info.php:91
+msgid "Duplicate Your WordPress"
+msgstr "複製你的WordPress"
+
+#: views/settings/about-info.php:85
+msgid "Spread the Word"
+msgstr "傳播出去"
+
+#: views/settings/about-info.php:73
+msgid "Leave 5 Stars"
+msgstr "評價5星"
+
+#: duplicator.php:305 views/settings/license.php:6
+msgid "Manage"
+msgstr "管理"
+
+#: duplicator.php:225
+msgid "Go Pro!"
+msgstr "獲取專業版！"
+
+#: duplicator.php:216 views/tools/controller.php:148
+msgid "Tools"
+msgstr "工具"
+
+#: duplicator.php:221 views/packages/main/packages.php:61
+#: views/settings/controller.php:19
+msgid "Settings"
+msgstr "設定"
+
+#: duplicator.php:210 views/packages/details/controller.php:47
+#: views/packages/main/packages.php:64 views/packages/main/packages.php:200
+#: views/packages/main/s1.setup1.php:69 views/packages/main/s2.scan1.php:145
+#: views/packages/main/s3.build.php:86 views/settings/controller.php:23
+msgid "Packages"
+msgstr "壓縮包"
+
+#: views/settings/controller.php:27
+msgid "About"
+msgstr "關於"
+
+#: duplicator.php:322 views/packages/main/packages.php:55
+msgid "Get Help"
+msgstr "取得協助"
+
+#: classes/utilities/class.u.php:438
+msgid "You do not have sufficient permissions to access this page."
+msgstr "你沒有足夠的權限以檢視此頁。"
